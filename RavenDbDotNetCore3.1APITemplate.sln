@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDbDotNetCore3.1APITemplate", "TarkovItemsAPI\RavenDbDotNetCore3.1APITemplate.csproj", "{299AD2CE-AC1C-4FB0-9468-7643BF05FE28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RavenDbDotNetCore3.1APITemplate", "RavenDbDotNetCore3.1APITemplate\RavenDbDotNetCore3.1APITemplate.csproj", "{35D32BB8-B4F1-4256-B4D8-C9A2FE2534C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{299AD2CE-AC1C-4FB0-9468-7643BF05FE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{299AD2CE-AC1C-4FB0-9468-7643BF05FE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{299AD2CE-AC1C-4FB0-9468-7643BF05FE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{299AD2CE-AC1C-4FB0-9468-7643BF05FE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D32BB8-B4F1-4256-B4D8-C9A2FE2534C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D32BB8-B4F1-4256-B4D8-C9A2FE2534C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D32BB8-B4F1-4256-B4D8-C9A2FE2534C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D32BB8-B4F1-4256-B4D8-C9A2FE2534C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BC644F96-B309-4BF4-AF63-4C126CB5E965}
+		SolutionGuid = {B8D32FBA-1961-4175-866E-5CAC8A3D9E4F}
 	EndGlobalSection
 EndGlobal
