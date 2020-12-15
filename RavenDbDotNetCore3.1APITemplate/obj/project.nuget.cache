@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uz0tQJRG3El5w+PH9oF7FdXl4Cb6J+8TZkgCKeIMvGApXZ3euN0M/BdmVyejGguUjUU6Kutzlc7jnLrovAO0bw==",
+  "dgSpecHash": "/Hhko67hr5yBBIPZdXQBK3pn9TlsLKlzuR4Mr6XMus+rDatpjXocL7HmXvILJ0e/HTMlkBy9Fr4edGqyZtyQSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\TarkovItemsAPI\\TarkovItemsAPI\\RavenDbDotNetCore3.1APITemplate.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Documents\\Workspace\\RavenDbDotNetCore3.1APITemplate\\RavenDbDotNetCore3.1APITemplate\\RavenDbDotNetCore3.1APITemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\lambda2js.signed\\3.1.3\\lambda2js.signed.3.1.3.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
